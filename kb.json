@@ -1,0 +1,19 @@
+{
+    "records": [
+        {
+            "id": "1",
+            "question": "Quantos dias de férias tenho direito por ano em Portugal?",
+            "answer": "Em Portugal, os trabalhadores têm direito a um mínimo de 22 dias úteis de férias por ano, conforme estabelecido no Código do Trabalho. No entanto, este número pode variar dependendo do contrato de trabalho ou de acordos coletivos específicos."
+        },
+        {
+            "id": "2",
+            "question": "Posso ser despedido sem justa causa em Portugal?",
+            "answer": "Em Portugal, o despedimento sem justa causa é permitido, mas deve seguir procedimentos legais específicos. O empregador deve fornecer uma justificação válida e cumprir os prazos de aviso prévio. Além disso, o trabalhador tem direito a receber uma compensação financeira dependendo do tempo de serviço."
+        },
+        {
+            "id": "3",
+            "question": "Quais são os direitos dos trabalhadores temporários em Portugal?",
+            "answer": "Os trabalhadores temporários em Portugal têm direitos semelhantes aos dos trabalhadores permanentes, incluindo direito a salário, férias, descanso semanal e proteção contra despedimento injustificado. No entanto, os contratos temporários têm uma duração limitada e podem ser renovados ou terminados conforme acordado entre as partes."
+        }  
+    ]
+}

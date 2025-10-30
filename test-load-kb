@@ -1,0 +1,7 @@
+import json
+
+
+with open("kb.json", "r", encoding="utf-8") as f:
+    kb = json.load(f)
+
+print(kb)
